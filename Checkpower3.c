@@ -22,5 +22,7 @@ int main()
     /*but 3 power 1 is 3 tho...*/
 	}
 	
+/*wait.. I fucked up*/
+	
 	return 0;
 }
